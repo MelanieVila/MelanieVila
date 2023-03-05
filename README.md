@@ -1,5 +1,5 @@
 **I’m Melanie** 👋 / Full Stack Developer Trainee.
 
-💻 I’m currently working on my [ExLibris](https://github.com/MelanieVila/ExLibris) project.
+💻 I’m currently working on my <a href="https://github.com/MelanieVila/ExLibris/" target="_blank">ExLibris</a> project.
 
-🔍 Look for me on [LinkedIn](https://www.linkedin.com/in/melanievila/).
+🔍 Look for me on <a href="https://www.linkedin.com/in/melanievila/" target="_blank">LinkedIn</a>.
