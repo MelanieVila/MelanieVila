@@ -1,5 +1,7 @@
-**I’m Melanie** 👋 / Full Stack Developer Trainee.
+**I’m Melanie** :wave: / Full Stack Developer Trainee.
 
-💻 I’m currently working on my <a href="https://github.com/MelanieVila/ExLibris/" target="_blank">ExLibris</a> project.
+:computer: I’m currently working on my [ExLibris](https://github.com/MelanieVila/ExLibris/) project.
 
-🔍 Look for me on <a href="https://www.linkedin.com/in/melanievila/" target="_blank">LinkedIn</a>.
+:mag: Look for me on [LinkedIn](https://www.linkedin.com/in/melanievila/).
+
+:bulb: Future projects: my own Portfolio & a JavaScript’s Playroom.
