@@ -1,6 +1,6 @@
 **I’m Melanie** :wave: / Full Stack Developer Trainee.
 
-:computer: I’m currently working on my [ExLibris](https://github.com/MelanieVila/ExLibris/) project.
+:computer: I’m currently working on my [Serpensortia](https://github.com/MelanieVila/Serpensortia/) project.
 
 :mag: Look for me on [LinkedIn](https://www.linkedin.com/in/melanievila/).
 
