@@ -2,7 +2,7 @@
 I’m *Melanie* from Buenos Aires (Argentina) and a Full Stack Developer Trainee.
 
 ### `💻 Currently working:`
-With React on my [Serpensortia](https://github.com/MelanieVila/Serpensortia/) project.
+Using React on my [Serpensortia](https://github.com/MelanieVila/Serpensortia/) project.
 
 Future projects: my own *Portfolio* & a *JavaScript’s Playroom*.
 
@@ -18,5 +18,5 @@ Future projects: my own *Portfolio* & a *JavaScript’s Playroom*.
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-10002B?style=flat&logo=Visual-Studio-Code&logoColor=007ACC)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-10002B?style=flat&logo=github&logoColor=DEE2E6)&nbsp;
 
-### `🔍 Let's connect:`
+### `🔍 Let’s connect:`
 Look for me on [LinkedIn](https://www.linkedin.com/in/melanievila/).
