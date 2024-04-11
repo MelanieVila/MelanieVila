@@ -2,7 +2,7 @@
 I’m *Melanie* from Buenos Aires (Argentina) and a Full Stack Developer Trainee.
 
 ### `💻 Currently working:`
-Using React on my [Serpensortia](https://github.com/MelanieVila/Serpensortia/) project.
+Using Bootstrap & SASS on a private project.
 
 Future projects: my own *Portfolio* & a *JavaScript’s Playroom*.
 
